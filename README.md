@@ -40,6 +40,8 @@ This web-scraping project consists of two parts (part_1_mars_news.ipynb, part_2_
 
 ![martiantemp_earthdays](Output/mintemp_v_earthdays.png)
 
+- Finally, the orignal DataFrame was exported into a csv which can be found in the 'Output' folder.
+
 
 
  
