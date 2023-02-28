@@ -25,7 +25,7 @@ This web-scraping project consists of two parts (part_1_mars_news.ipynb, part_2_
 
 1. How many months exist on Mars?: 12
 
-2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?: 1867
+2. How many Martian days worth of data exist in the scraped dataset?: 1867
 
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?: by finding the average minimum daily temperature for all of the months, we can can plot the data as a bar chart. We see from the bar chart that the month 3 seems to be the coldest and month 8 seems to be the 'warmest'. Though as we can see it is always very cold (far below 0°C) on Mars.
 
